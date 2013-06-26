@@ -1,6 +1,7 @@
 Java-SuperPaint-Application
 ===========================
 Java paint application
+
 Description: 
  * This program use inheritance and implementation to create a paint program.
  * The paint program lets you select a color, a shape (line, rectangle,oval) and whether or not the shape is filled.
