@@ -2,7 +2,12 @@ Java-SuperPaint-Application
 ===========================
 Java paint application
 
-Description: 
+Required
+----------
+[Java JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.htm)
+
+Description
+------------
  * This program use inheritance and implementation to create a paint program.
  * The paint program lets you select a color, a shape (line, rectangle,oval) and whether or not the shape is filled.
  * You use the mouse to drag and draw a shape, the shape's coordinate re-adjust automatically with mouse's position
