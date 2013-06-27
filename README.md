@@ -15,4 +15,4 @@ Description
 * However, if you draw a new shape you can no longer redo.
 * There is also a clear button to clear the screen and you cannot undo that.
 
-![alt text](http://i.imgur.com/yqiVYx8.png "SuperPaint Application")
+![alt text](http://i.imgur.com/6gzUfxo.png "SuperPaint Application")
